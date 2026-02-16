@@ -16,4 +16,6 @@
 
 ### TS (Not in order)
 1. TS Intro: https://www.atatus.com/blog/typescript-vs-javascript-should-you-make-the-switch/
+2. Type Guards: https://www.typescripttutorial.net/typescript-tutorial/typescript-type-guards/
+
 
