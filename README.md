@@ -12,7 +12,8 @@
 
 2. Auditing Spring Boot: https://medium.com/thefreshwrites/jpa-auditing-spring-boot-spring-security-575c77867570
 
-
+### JS (Not in order)
+1. `Object.Seal()`: https://www.greatfrontend.com/questions/quiz/what-is-objectseal-for
 
 ### TS (Not in order)
 1. TS Intro: https://www.atatus.com/blog/typescript-vs-javascript-should-you-make-the-switch/
