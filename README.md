@@ -20,3 +20,6 @@
 2. Type Guards: https://www.typescripttutorial.net/typescript-tutorial/typescript-type-guards/
 
 
+### ng
+1. ng pipes: https://angular.dev/guide/templates/pipes
+2. 
